@@ -1,0 +1,20 @@
+This project proposes features such as:
+
+❖ Smart Security: Controls security camera using motion detector sensor (The web
+camera will automatically turn on when it detects the motion)
+
+❖ Smart Irrigation System: Utilizes a water level sensor to regulate the amount of
+water in the garden with a smart irrigation system (If the water level monitor displays above
+10 then all the lawn sprinklers will automatically get turned on.)
+
+❖ Smoke detection System: A alarm will sound to inform us that the smoke level is
+high when it rises above 5, and the fire sprinklers will immediately turn on.
+
+❖ Thermal Comfort: Thermostat is used to measure the temperature. Depending on the
+environment, ceiling fans and air conditioners are automatically adjusted.
+
+❖ Smart Alert System: Temperature of home is monitored and Email notification will
+be sent if it reaches certain value.
+
+❖ Remote Access Car: Controlling the car by PC or mobile connected to the network,
+and registration server.
